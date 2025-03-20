@@ -2,6 +2,9 @@
 
 ### Link-OS: QRコードに日本語データを追加する方法
 
+
+![1742464592333](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy_mFz7jmhDD_q5s9RX1t9lmBZ4q1sOTN1LZWU_Aa5a2dba3XYj-g80_B_-PzOM_BPwhJhuSrwm6dCLoB6i2kFcPExxutuR5IoUWgR7lRQK5Z9XzpEvjT-Ih9obdAnVCRF2Zg4exV2w4w/s400/computer_mojibake.png)
+
 QRコードに日本語をデータとして格納することができますが、適切に対処しないとスキャナやスマホカメラで読み取ったときに文字化けが発生します。Link-OSプリンタでにおいて、QRコードを印刷するときの正しいZPLコード記述方法を列記します。
 
 </br>
